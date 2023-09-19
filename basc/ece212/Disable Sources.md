@@ -1,0 +1,2 @@
+- Voltage sources become short circuits
+- Current sources become open circuits
