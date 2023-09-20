@@ -11,12 +11,8 @@
             "id": "7df5cbeda74d1c7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "basc/ece212/Mesh Analysis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basc/ece212/Mesh Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "basc/ece212/Mesh Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "basc/ece212/Mesh Analysis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 308.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -158,27 +150,45 @@
   },
   "active": "7df5cbeda74d1c7b",
   "lastOpenFiles": [
+    "basc/mat291/Differentiability.md",
+    "basc/mat290/Complex Trigonometric Functions.md",
+    "basc/mat290/Complex Functions.md",
+    "basc/mat290/Complex Operations.md",
+    "basc/mat291/Tangent Plane.md",
+    "IMG_E280032E35E6-1.jpeg",
+    "basc/mat291/Clariaut's Theorem.md",
+    "basc/mat291/Multivariable Limit.md",
+    "basc/mat291/Partial Derivative.md",
+    "IMG_D009479F7544-1.jpeg",
+    "basc/mat291/Path Function.md",
+    "basc/mat291/Continuity.md",
+    "basc/ece244/Strings in C++.md",
+    "basc/ece241/Seven Segment Display.md",
+    "basc/ece241/Boolean Algebra.md",
+    "basc/mat290/Conjugate Identities.md",
+    "basc/mat290/The Argument.md",
+    "basc/ece241/Multiplexers.md",
+    "basc/ece241/Hexadecimals.md",
+    "basc/ece241/Complex Logic Gates.md",
+    "basc/ece212/Operational Amplifiers.md",
+    "IMG_F9FB41FAABBB-1.jpeg",
+    "IMG_C8C5AA26F392-1.jpeg",
+    "basc/ece241/Verilog.md",
+    "basc/ece241/Sum of Products.md",
     "basc/ece212/Nodal Analysis.md",
     "basc/ece212/Mesh Analysis.md",
     "basc/ece212/Equivalent Resistance Rules.md",
     "basc/ece212/Disable Sources.md",
+    "IMG_872A79648689-1.jpeg",
+    "IMG_353C981E0BB8-1.jpeg",
+    "IMG_2929644A1C2A-1.jpeg",
+    "IMG_24A0D2455E72-1.jpeg",
+    "basc/mat291",
+    "basc/mat290",
     "basc/ece212",
-    "basc/ece244/Pass by Reference.md",
-    "basc/ece244/References.md",
-    "basc/ece244/Strings for C++.md",
     "basc/ece241",
-    "basc/ece244/Structure of a C++ Program.md",
-    "basc/ece244/Program Organization.md",
     "basc/ece244",
-    "basc/ece244/Pass by Pointer.md",
     "Untitled.canvas",
-    "basc/ece244/Pass By Value.md",
-    "basc/ece244/Header Macros.md",
-    "Pass.md",
-    "Test.md",
-    "basc/Test.md",
-    "basc",
-    "DHSUI.md.md",
-    "2023-09-18.md"
+    "basc"
   ]
 }

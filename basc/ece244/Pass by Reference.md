@@ -1,4 +1,4 @@
-In C, we had to [[Pass by Pointer]], now with [[References]] we can Pass by reference with C++.
+In C, we had to [[Pass by Pointer]] or [[Pass By Value]], now with [[References]] we can Pass by reference with C++.
 
 ``` C++
 #include <iostream>
