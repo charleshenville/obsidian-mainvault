@@ -37,7 +37,7 @@ int main(){
 }
 ```
 
-## A solution for this issue: Header Guards
+## A solution for this issue implementing [[Error Handling]]: Header Guards
 
 - Guards against including header file content several times.
 

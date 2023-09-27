@@ -32,27 +32,27 @@
       "query": "path:basc/mat290  ",
       "color": {
         "a": 1,
-        "rgb": 5401056
+        "rgb": 6902496
       }
     },
     {
       "query": "path:basc/mat291  ",
       "color": {
         "a": 1,
-        "rgb": 5417696
+        "rgb": 5425632
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 1.13244313566206,
+  "lineSizeMultiplier": 2.50405835364203,
+  "collapse-forces": false,
+  "centerStrength": 0.554054968860005,
+  "repelStrength": 9.90861088545898,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.9943153322022001,
+  "linkDistance": 100,
+  "scale": 1.2360982076511564,
   "close": true
 }

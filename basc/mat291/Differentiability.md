@@ -5,3 +5,5 @@ Where $L_{(a,b)}(x,y)$ is the [[Tangent Plane]] of $f(x,y)|_{(a,b)}$
 
 If $f$ is Differentiable at $(a,b)$, then it displays [[Continuity]] there.
 Note that every [[Partial Derivative]] must also exist at $(a,b)$.
+
+Additionally, if $f(a,b)$ is continuous and defined on the [[Neighbourhood]] of $(a,b)$, It is Differentiable there.

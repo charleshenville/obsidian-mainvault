@@ -2,10 +2,10 @@
 $$z=x+i\cdot y$$
 # Euler's Formula (from Taylor Series of $e^x$)
 $$e^{i\theta}=cos\theta+i\cdot sin\theta$$
-# DeMoire's Theorem
-$$e^{in\theta}=cos(n\theta)+i\cdot sin(n\theta)$$
+# DeMoivre's Theorem
+$$(cos(\theta)+i\cdot sin(\theta))^n=e^{in\theta}=cos(n\theta)+i\cdot sin(n\theta)$$
 # Complex Roots
-$$w_k=z^{\frac{1}{n}}=(re^{i\theta})^{\frac{1}{n}}=r^{\frac{1}{n}}\angle\frac{\theta_0+2\pi n}{n}$$
+$$z^{\frac{1}{n}}=(re^{i\frac{\theta_0+2\pi n}{n}})^{\frac{1}{n}}=r^{\frac{1}{n}}[cos(\frac{\theta_0+2\pi n}{n})+i\cdot sin(\frac{\theta_0+2\pi n}{n})]$$
 ### Note we have $n$ distinct roots (from [[The Argument]])
 # The Complex Exponential
 
@@ -19,4 +19,3 @@ $$e^z=e^x\angle (y+2\pi n)$$
 $$w(x,y)=ln(z)=ln|z|+i(Arg(z)+2\pi n)=ln|z|+i\cdot arg(z)$$
 ### Principal
 $$Ln(z)=ln|z|+i\cdot Arg(z)$$
-

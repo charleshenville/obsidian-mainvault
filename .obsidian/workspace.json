@@ -4,15 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "e28da8bae1c17fd8",
+        "id": "e32faa0f7407b05f",
         "type": "tabs",
         "children": [
           {
-            "id": "7df5cbeda74d1c7b",
+            "id": "5916804c882f4121",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "7bbebd65f9c1ee2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "basc/ece244/Header Macros.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7c2f8f0722063884",
@@ -148,47 +160,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7df5cbeda74d1c7b",
+  "active": "5916804c882f4121",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "basc/ece244/Header Macros.md",
+    "basc/ece212/Inductors.md",
+    "IMG_40C8B6D4CADC-1.jpeg",
+    "basc/ece212/Capacitors.md",
+    "IMG_AEC13C1F206F-1.jpeg",
+    "basc/ece244/Classes.md",
+    "basc/ece241/Look-Up Tables.md",
+    "basc/ece244/Encapsulation.md",
+    "basc/mat290/Unique Solutions to First-Order IVPs.md",
+    "basc/ece241/Adders.md",
+    "IMG_0708.jpg",
+    "IMG_9CEFA92985A7-1.jpeg",
+    "basc/mat291/Multivariable Implicit Differentiation.md",
+    "basc/mat291/Gradient.md",
     "basc/mat291/Differentiability.md",
-    "basc/mat290/Complex Trigonometric Functions.md",
-    "basc/mat290/Complex Functions.md",
-    "basc/mat290/Complex Operations.md",
     "basc/mat291/Tangent Plane.md",
-    "IMG_E280032E35E6-1.jpeg",
-    "basc/mat291/Clariaut's Theorem.md",
-    "basc/mat291/Multivariable Limit.md",
-    "basc/mat291/Partial Derivative.md",
-    "IMG_D009479F7544-1.jpeg",
-    "basc/mat291/Path Function.md",
-    "basc/mat291/Continuity.md",
-    "basc/ece244/Strings in C++.md",
-    "basc/ece241/Seven Segment Display.md",
-    "basc/ece241/Boolean Algebra.md",
-    "basc/mat290/Conjugate Identities.md",
+    "basc/mat291/Directional Derivative.md",
+    "IMG_9A45649F0658-1.jpeg",
+    "Untitled (2).png",
+    "Untitled (1).png",
+    "Untitled.canvas",
+    "Pasted image 20230924193536.png",
+    "Pasted image 20230924193551.png",
+    "Pasted image 20230924193459.png",
     "basc/mat290/The Argument.md",
-    "basc/ece241/Multiplexers.md",
-    "basc/ece241/Hexadecimals.md",
+    "basc/mat290/Ordinary Differential Equations.md",
+    "basc/mat290/Linearly Independent Functions.md",
+    "basc/mat290/Integrating Factor.md",
+    "basc/mat290/Homogenous Linear DEs.md",
+    "basc/mat290/Higher-Order ODEs.md",
+    "basc/mat290/Complex Functions.md",
+    "basc/ece244/Pass by Reference.md",
     "basc/ece241/Complex Logic Gates.md",
-    "basc/ece212/Operational Amplifiers.md",
-    "IMG_F9FB41FAABBB-1.jpeg",
-    "IMG_C8C5AA26F392-1.jpeg",
-    "basc/ece241/Verilog.md",
-    "basc/ece241/Sum of Products.md",
-    "basc/ece212/Nodal Analysis.md",
-    "basc/ece212/Mesh Analysis.md",
-    "basc/ece212/Equivalent Resistance Rules.md",
-    "basc/ece212/Disable Sources.md",
-    "IMG_872A79648689-1.jpeg",
-    "IMG_353C981E0BB8-1.jpeg",
-    "IMG_2929644A1C2A-1.jpeg",
-    "IMG_24A0D2455E72-1.jpeg",
+    "basc/ece241/FPGAs.md",
+    "basc/mat290/Complex Operations.md",
+    "basc/mat290/Complex Trigonometric Functions.md",
     "basc/mat291",
     "basc/mat290",
     "basc/ece212",
     "basc/ece241",
     "basc/ece244",
-    "Untitled.canvas",
     "basc"
   ]
 }

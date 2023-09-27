@@ -1,5 +1,5 @@
 - Output is not being immediately written in a file/terminal
-    - We Do this in chunks
+	- We Do this in chunks
 - We must buffer first.
 
 ```cpp
@@ -11,7 +11,7 @@ outFile << endl;
 outFile.flush();
 ```
 
-|H|i||e|v|e|r|y|
+|H|i| |e|v|e|r|y|
 |---|---|---|---|---|---|---|---|
 
 From memory to myFile.txt once flushed.

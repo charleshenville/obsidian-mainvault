@@ -14,5 +14,5 @@
 $$f_1(a,b,c)=\sum m$$ Where m corresponds to min terms where $f_1$
 
 ## Also
-$$f_2(a,b,c)=\sum \bar m$$
+$$f_2(a,b,c)=\prod \bar m$$
 Where m corresponds to min terms where $\bar f_1$

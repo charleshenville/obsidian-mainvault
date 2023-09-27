@@ -11,8 +11,8 @@
 |1|1|1|$\bar a+\bar b+\bar c$|0|1|
 
 ## It follows that
-$$f_1(a,b,c)=\prod m$$ Where m corresponds to min terms where $f_1$
+$$f_1(a,b,c)=\prod M$$ Where m corresponds to min terms where $f_1$
 
 ## Also
-$$f_2(a,b,c)=\prod \bar m$$
+$$f_2(a,b,c)=\sum \bar M$$
 Where m corresponds to min terms where $\bar f_1$

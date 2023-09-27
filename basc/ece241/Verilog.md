@@ -14,7 +14,7 @@ and a_and(c,a,b);
 or a_or(f,d,e);
 ```
 
-## By Behaviour
+## By Behaviour ([[Boolean Algebra]] expressions)
 
 ```verilog
 c = a & b; s = A + B;
