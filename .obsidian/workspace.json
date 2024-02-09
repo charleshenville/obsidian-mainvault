@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e32faa0f7407b05f",
+        "id": "14f0021c06e6c7e4",
         "type": "tabs",
         "children": [
           {
-            "id": "5916804c882f4121",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7bbebd65f9c1ee2b",
+            "id": "089681b989be2813",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basc/ece244/Header Macros.md",
+                "file": "basc/2024/ece216/Discrete Time Fourier Series.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -77,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 286.5026054382324
   },
   "right": {
     "id": "7c2f8f0722063884",
@@ -93,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "basc/2024/ece216/Discrete Time Fourier Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "basc/2024/ece216/Discrete Time Fourier Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "basc/2024/ece216/Discrete Time Fourier Series.md"
+              }
             }
           },
           {
@@ -139,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -160,50 +158,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5916804c882f4121",
+  "active": "089681b989be2813",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "basc/ece244/Header Macros.md",
-    "basc/ece212/Inductors.md",
-    "IMG_40C8B6D4CADC-1.jpeg",
-    "basc/ece212/Capacitors.md",
-    "IMG_AEC13C1F206F-1.jpeg",
-    "basc/ece244/Classes.md",
-    "basc/ece241/Look-Up Tables.md",
-    "basc/ece244/Encapsulation.md",
-    "basc/mat290/Unique Solutions to First-Order IVPs.md",
-    "basc/ece241/Adders.md",
-    "IMG_0708.jpg",
-    "IMG_9CEFA92985A7-1.jpeg",
-    "basc/mat291/Multivariable Implicit Differentiation.md",
-    "basc/mat291/Gradient.md",
-    "basc/mat291/Differentiability.md",
-    "basc/mat291/Tangent Plane.md",
-    "basc/mat291/Directional Derivative.md",
-    "IMG_9A45649F0658-1.jpeg",
-    "Untitled (2).png",
-    "Untitled (1).png",
-    "Untitled.canvas",
-    "Pasted image 20230924193536.png",
-    "Pasted image 20230924193551.png",
-    "Pasted image 20230924193459.png",
-    "basc/mat290/The Argument.md",
-    "basc/mat290/Ordinary Differential Equations.md",
-    "basc/mat290/Linearly Independent Functions.md",
-    "basc/mat290/Integrating Factor.md",
-    "basc/mat290/Homogenous Linear DEs.md",
-    "basc/mat290/Higher-Order ODEs.md",
-    "basc/mat290/Complex Functions.md",
-    "basc/ece244/Pass by Reference.md",
-    "basc/ece241/Complex Logic Gates.md",
-    "basc/ece241/FPGAs.md",
-    "basc/mat290/Complex Operations.md",
-    "basc/mat290/Complex Trigonometric Functions.md",
-    "basc/mat291",
-    "basc/mat290",
-    "basc/ece212",
-    "basc/ece241",
-    "basc/ece244",
-    "basc"
+    "basc/2024/ece216/Midterm 1 - Even Component Question Rationale.md",
+    "basc/2024/ece216/Discrete Time Fourier Series.md",
+    "Pasted image 20240208191017.png",
+    "basc/2024/ece231/MOSFET Operating Regions.md",
+    "Lecture Mosfet Feb7.pdf",
+    "basc/2024/ece216/Existence and Convergence of CTFS.md",
+    "basc/2024/ece216/Continuous Time Fourier Series.md",
+    "basc/2024/ece216/Signal Support and Size.md",
+    "basc/2024/ece216/Complex Exponential Signals.md",
+    "basc/2024/ece216/Fourier Series.md",
+    "basc/2024/ece216/Periodicity of Signals.md",
+    "basc/2024/ece243/The NIOS II Subroutine Calling Convention.md",
+    "basc/2024/ece243/Stack Pointers.md",
+    "basc/2024/ece243/Memory-Mapped IO.md",
+    "basc/2024/ece243/Timekeeping.md",
+    "basc/2024/ece216/MATLAB, SIMULINK Intro.md",
+    "Pasted image 20240131235519.png",
+    "basc/2024/ece216/Continuous Time Signals.md",
+    "basc/2023/mat291/Divergence Theorem.md",
+    "basc/2023/mat291/Divergence Operator.md",
+    "Pasted image 20240131212726.png",
+    "Pasted image 20240131210959.png",
+    "Pasted image 20240131202913.png",
+    "Pasted image 20240131125154.png",
+    "Pasted image 20240131121703.png",
+    "Pasted image 20240131121642.png",
+    "basc/2023/mat290/Complex Functions.md",
+    "basc/2023/mat290/Complex Trigonometric Functions.md",
+    "basc/2023/mat290/Complex Operations.md",
+    "basc/2024/ece216/Aliasing.md",
+    "basc/2024/ece216/Discrete Time Signals.md",
+    "Pasted image 20240131120911.png",
+    "Pasted image 20240131120728.png",
+    "basc/2024/ece231/Circuit Simulation, Lab Equipment.md",
+    "basc/2024/ece231/Diode Circuits.md",
+    "basc/2024/ece243/Subroutines.md",
+    "basc/2023/mat290/Laplace Transform.md",
+    "basc/2024/ece297",
+    "basc/2024/ece231",
+    "basc/2024/ece243",
+    "basc/2024/ece221",
+    "basc/2024/ece216",
+    "basc/2024",
+    "basc/2023",
+    "basc/2022",
+    "barterly",
+    "assets/Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }

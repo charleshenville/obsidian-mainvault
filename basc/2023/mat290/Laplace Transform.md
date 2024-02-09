@@ -8,8 +8,10 @@ $$e^{-st}=e^{-\sigma t}e^{-i\omega t}$$
 We must evaluate this improper integral as a limit:
 $$L\{f(t)\}=\lim\limits_{b\to\infty}\int_0^be^{-st}f(t)dt$$
 Note that this is a Linear Transformation, that is:
-$$L\{\alpha f(t)+\beta g(t)\}=\alpha F(s)+\beta g(s)$$
+$$\mathcal{L}\{\alpha f(t)+\beta g(t)\}=\alpha F(s)+\beta G(s)$$
 ![[Pasted image 20231018222732.png]]
 Note that here:
 $$1=u(t)$$
 Where $u(t)$ is the step (Heaviside) function.
+
+
