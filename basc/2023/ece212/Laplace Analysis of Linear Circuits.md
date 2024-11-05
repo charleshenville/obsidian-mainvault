@@ -3,7 +3,7 @@ Use case of [[Laplace Transform]] in Circuit analysis:
 2. Like a Power Series:$$\sum_{n=0}^\infty a_nx^n = g(x)$$
 ## Assertion:
 - A [[Laplace Transform]] is essentially a form of a [[Taylor Series]].$$\sum_{n=0}^\infty a_nx^n\to\int_0^\infty f(t)(e^{-s})^tdt$$
-## Initial and Final Value Theorem
+## [[Initial and Final Value Theorem]]
 
 Initial: $$\lim\limits_{t\to0^+}f(t)=\lim\limits_{s\to\infty}sF(s)$$
 Final:

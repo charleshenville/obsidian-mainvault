@@ -10,5 +10,7 @@ Timing Analysis of the following Sample circuit:
 - A matter of finding critical paths and performing appropriate analyses:
 	- For $t_{su}$ we look for longest path with most delays.
 	- Opposite for $t_{hold}$.
-$$t_{CQ}>t_{hold}$$ **(??)**
+$$t_{CQ}+t_{PD}>t_{hold}$$
+$$tclock​≥tCQ​+tlogic​+tsu​$$
+**(??)**
 Where $t_{CQ}$ is the clock $\to$ Output delay.

@@ -1,9 +1,9 @@
 {
-  "accentColor": "#928563",
+  "accentColor": "#b09c63",
   "monospaceFontFamily": "SF Mono",
   "theme": "obsidian",
-  "cssTheme": "Obsidianite",
-  "baseFontSize": 30,
+  "cssTheme": "Things",
+  "baseFontSize": 28,
   "textFontFamily": "Inter",
   "interfaceFontFamily": "SF Mono"
 }

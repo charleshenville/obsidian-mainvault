@@ -1,0 +1,2 @@
+# Again , similar to [[Properties of CT Systems]] but with [[Discrete Time Systems]] 
+- We define Linearity, Time-Invariance, Memoryless, Invertibility, Causality, and BIBO Stability in almost the exact same way.

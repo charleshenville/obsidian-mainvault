@@ -1,0 +1,2 @@
+# Using the [[Windowing Signal]]wont recover our original signal from the Sampled one if $\omega_s\lt 4\pi B$ the distortion (Aliasing) happens in the frequency domain:
+![[Pasted image 20240305095543.png]]

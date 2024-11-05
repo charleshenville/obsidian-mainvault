@@ -1,0 +1,1 @@
+# $$S=\{B_1,B_2,\dots,B_n\}$$$$P[A|B_i]P[B_i]=P[A\&B_i]=P[B_i|A]P[A]$$$$P[B_i|A]=\frac{P[A|B_i]P[B_i]}{P[A]}$$Applying [[Total Probability Theorem]], we get:$$P[B_i|A]=\frac{P[A|B_i]P[B_i]}{\sum_{k=1}^nP[A|B_k]P[B_k]}$$This is Bayes Rule.

@@ -9,6 +9,7 @@
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 61
-  }
+    "downscalePercent": 90
+  },
+  "showRibbon": true
 }

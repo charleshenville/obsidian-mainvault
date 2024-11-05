@@ -1,6 +1,6 @@
 ![[Lecture Mosfet Feb7.pdf]]
 # Channel-Length Modulation
-- Increasing $V_D$ past pinching (still in saturation region) to affect out channel length directly
+- Increasing $V_D$ past pinching (still in saturation region) to affect out channel length directly. Note Triode region is similar to [[Diode Circuits]].
 - Parameter $\lambda [\text{V}^{-1}]$ will adjust saturation region to look again like a resistor.
 
 # Saturation DS/Overdrive Voltage relation

@@ -1,2 +1,2 @@
 # Theorem
-If $x_1$ and $x_2$ are both periodic with periods $T_1, T_2$, and $\frac{T_1}{T_2}=\frac{k}{l}\in\mathbb{Q} \text{ i.e. } k,l\in\mathbb{Z}$ then $x(t)=x_1(t)+x_2(t)$ is periodic with a period of $T=lT_1=kT_2$. Same idea applies to pointwise products of periodic signals.
+If $x_1$ and $x_2$ are both periodic with periods $T_1, T_2$, and $\frac{T_1}{T_2}=\frac{k}{l}\in\mathbb{Q} \text{ i.e. } k,l\in\mathbb{Z}$ then $x(t)=x_1(t)+x_2(t)$ is periodic with a period of $T=lT_1=kT_2$. Same idea applies to pointwise products of periodic signals. (Applicable to either [[Continuous Time Signals]] or [[Discrete Time Signals]]).

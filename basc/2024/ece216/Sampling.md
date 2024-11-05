@@ -1,0 +1,3 @@
+# The [[Continuous Time Signals]] Sampling Function, with sampling period $T_s>0$:$$s(t)=\sum_{n=-\infty}^\infty \delta(t-nT_s)$$
+## Then we have the sampled $s(t)x(t)$: $$\sum_{n=-\infty}^\infty \delta(t-nT_s)x(t)=\sum_{n=-\infty}^\infty \delta(t-nT_s)x(nT_s)$$
+## With a [[Continuous Time Fourier Transform]] (Also a sampling function)$$ S(\textbf{j}\omega)=\frac{2\pi}{T_s}\sum^\infty_{k=-\infty} \delta(\omega-k\omega_s)$$

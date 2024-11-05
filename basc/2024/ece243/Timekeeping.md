@@ -1,4 +1,4 @@
-# Hardware Timers
+# Hardware Timers within [[Memory-Mapped IO]]
 
 - Must have an accurate clock from [[Flip-Flops]] running at a specific frequency.
 - Use a rate divider to correct the frequency to what we want.

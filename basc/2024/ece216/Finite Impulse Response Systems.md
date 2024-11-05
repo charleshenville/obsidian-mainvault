@@ -1,0 +1,2 @@
+# FIR Systems are [[LTI DT Systems]] defined as:$$y[n]=\sum_{k=0}^Mb_kx[n-k]=b_0x[n]+b_1x[n-1]+\dots$$$$\{b_k\}_{k=0}^M\text{ are constants, }M\text{ is the } \textbf{Order} \text{ of the Sys.}$$
+# Impulse Response of This Causal and BIBO Stable System:$$h[n]=\sum_{k=0}^Mb_k\delta[n-k]=\begin{cases}b_n\text{ if }0\leq n\leq M\\0\text{ otherwise}\end{cases}$$

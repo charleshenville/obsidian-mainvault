@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14f0021c06e6c7e4",
+        "id": "b9d951b47532a3d4",
         "type": "tabs",
         "children": [
           {
-            "id": "089681b989be2813",
+            "id": "790706c30dc8358f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basc/2024/ece216/Discrete Time Fourier Series.md",
+                "file": "basc/2024/ece302/Conditional Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5026054382324
+    "width": 245.5
   },
   "right": {
     "id": "7c2f8f0722063884",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basc/2024/ece216/Discrete Time Fourier Series.md",
+                "file": "basc/2024/ece302/Conditional Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "basc/2024/ece216/Discrete Time Fourier Series.md",
+                "file": "basc/2024/ece302/Conditional Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "basc/2024/ece216/Discrete Time Fourier Series.md"
+                "file": "basc/2024/ece302/Conditional Functions.md"
               }
             }
           },
@@ -158,54 +158,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "089681b989be2813",
+  "active": "790706c30dc8358f",
   "lastOpenFiles": [
-    "basc/2024/ece216/Midterm 1 - Even Component Question Rationale.md",
-    "basc/2024/ece216/Discrete Time Fourier Series.md",
-    "Pasted image 20240208191017.png",
-    "basc/2024/ece231/MOSFET Operating Regions.md",
-    "Lecture Mosfet Feb7.pdf",
-    "basc/2024/ece216/Existence and Convergence of CTFS.md",
-    "basc/2024/ece216/Continuous Time Fourier Series.md",
-    "basc/2024/ece216/Signal Support and Size.md",
-    "basc/2024/ece216/Complex Exponential Signals.md",
-    "basc/2024/ece216/Fourier Series.md",
-    "basc/2024/ece216/Periodicity of Signals.md",
-    "basc/2024/ece243/The NIOS II Subroutine Calling Convention.md",
-    "basc/2024/ece243/Stack Pointers.md",
-    "basc/2024/ece243/Memory-Mapped IO.md",
-    "basc/2024/ece243/Timekeeping.md",
-    "basc/2024/ece216/MATLAB, SIMULINK Intro.md",
-    "Pasted image 20240131235519.png",
-    "basc/2024/ece216/Continuous Time Signals.md",
-    "basc/2023/mat291/Divergence Theorem.md",
-    "basc/2023/mat291/Divergence Operator.md",
-    "Pasted image 20240131212726.png",
-    "Pasted image 20240131210959.png",
-    "Pasted image 20240131202913.png",
-    "Pasted image 20240131125154.png",
-    "Pasted image 20240131121703.png",
-    "Pasted image 20240131121642.png",
-    "basc/2023/mat290/Complex Functions.md",
-    "basc/2023/mat290/Complex Trigonometric Functions.md",
-    "basc/2023/mat290/Complex Operations.md",
-    "basc/2024/ece216/Aliasing.md",
-    "basc/2024/ece216/Discrete Time Signals.md",
-    "Pasted image 20240131120911.png",
-    "Pasted image 20240131120728.png",
-    "basc/2024/ece231/Circuit Simulation, Lab Equipment.md",
+    "basc/2024/ece302/Marginal Functions.md",
+    "basc/2024/ece302/Conditional Functions.md",
+    "basc/2024/ece302/Variance.md",
+    "basc/2024/ece302/Expected Values.md",
+    "basc/2024/ece302/Correlation and Covariance.md",
+    "basc/2024/ece302/Probability Generating Functions.md",
+    "basc/2024/ece302/Entropy and Uncertainty.md",
+    "basc/2024/ece302/Joint Probability Density Function.md",
+    "basc/2024/ece302/Standard Deviation.md",
+    "basc/2024/ece302/Gaussian Distribution.md",
+    "basc/2024/ece302/Conditional Expectation.md",
+    "basc/2024/ece302/Characteristic Function.md",
+    "basc/2024/ece302/Random Variables in Multiple Dimensions.md",
+    "basc/2024/ece302/Independence.md",
+    "basc/2023/mat291/Partial Derivative.md",
+    "basc/2023/mat291/Clariaut's Theorem.md",
+    "basc/2024/ece302/Random Variables.md",
+    "assets/Pasted image 20241103164326.png",
+    "assets/Note Sep 3, 2024.jpeg",
+    "assets/Pasted image 20240916183343.png",
+    "assets/302 Notes.jpeg",
+    "basc/2023/ece212/Mutual Inductance.md",
+    "basc/2023/ece212/Ideal Transformers.md",
     "basc/2024/ece231/Diode Circuits.md",
-    "basc/2024/ece243/Subroutines.md",
-    "basc/2023/mat290/Laplace Transform.md",
-    "basc/2024/ece297",
-    "basc/2024/ece231",
-    "basc/2024/ece243",
-    "basc/2024/ece221",
-    "basc/2024/ece216",
-    "basc/2024",
-    "basc/2023",
-    "basc/2022",
-    "barterly",
+    "basc/2024/ece345/Permutations and Combinations.md",
+    "basc/2024/ece311/Routh Stability Criterion.md",
+    "basc/2024/ece345/New Logarithm Properties.md",
+    "basc/2024/ece345/Greedy Algorithms.md",
+    "basc/2024/ece345/QuickSort.md",
+    "basc/2024/ece311/Basic Control Problem.md",
+    "basc/2024/ece311/Untitled",
+    "assets/IMG_4020AB39A9A7-1.jpeg",
+    "assets/Pasted image 20241101144655.png",
+    "assets/Pasted image 20241023153422.png",
+    "assets/Pasted image 20241018105931.png",
+    "assets/Pasted image 20241018102929.png",
+    "assets/Pasted image 20241018102913.png",
+    "basc/2024/ece216/Untitled.canvas",
+    "basc/2024/jre410",
+    "basc/2024/ece311",
+    "basc/2024/ece302",
+    "basc/2024/ece344",
+    "basc/2024/ece345",
+    "basc/EC",
+    "IMG_1790 2.heic",
+    "IMG_1790.heic",
+    "assets/Lecture BJT.pdf",
     "assets/Untitled 1.canvas",
     "Untitled.canvas"
   ]

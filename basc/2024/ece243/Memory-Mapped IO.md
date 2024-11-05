@@ -16,7 +16,7 @@
 
 Writing a logical 1 (high) into any of the 4LSB of the Edge Capture Register will reset it, turning it to zero. This is unlike any other memory address as we need special, additional hardware for it.
 
-## Polling Loop for Data Register:
+## Polling Loop for Data [[Registers]] in [[Assembly Language]]:
 
 ```nasm
 .equ KEY_BASE, 0xff200050

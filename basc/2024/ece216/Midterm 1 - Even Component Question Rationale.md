@@ -13,6 +13,6 @@ $$x_{even}(t)=\frac{\cos(6\pi t)u(t)+\cos(-6\pi t)u(-t)}{2}$$$$x_{even}(t)=\frac
 Represented by:
 $$x_{even}(t)=\begin{cases}\frac{2}{2}\cos(0)=1\text{ for }t=0\\\frac{1}{2}\cos(6\pi t)\text{ otherwise}\end{cases}$$
 Since at $t=0$ we have both unit step functions "activated" and only one "activated" everywhere else.
-And we can clearly see that, for $t_0=0$:
+And we can clearly see that, for $t_0=0$, by [[Periodicity of Signals]]:
 $$x_{even}(t_0)\neq x_{even}(t_0+\frac{k}{3})\space \forall \space k\in\mathbb{Z}$$
 Thus, it may not be entirely correct to say that $x_{even}(t)$ is periodic. Note that if we had defined $u(t)=\frac{1}{2}$ for $t=0$ in particular, this would have resulted in a periodic $x_{even}(t)$.

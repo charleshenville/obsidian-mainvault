@@ -1,0 +1,8 @@
+# For [[Continuous Time Systems]], will focus on [[Linear Time-Invariant Systems]] (LTI Systems):
+
+## Displays **Linearity** (is linear) and Superposition if: $$T\{\alpha x+\tilde\alpha\tilde x\}=\alpha T\{x\}+\tilde\alpha T\{\tilde x\}$$ $$T\{\sum_{j=1}^{n}\alpha_jx_j\}=\sum_{j=1}^n \alpha_jT\{x_j\}, T\{\int\alpha(\tau)x_\tau d\tau\}=\int \alpha(\tau)T\{x_\tau\}d\tau$$
+## Displays **Time-Invariance** (is time-invariant) iff, with $x_\tau(t)=x(t)-\tau$ as a time-delayed signal:$$y=T\{x\},\space y_\tau=T\{x_\tau\}\space\forall\space\tau\in\mathbb{R}$$In the case of $T_{\text{mod}}\{x\}(t)=x(t)\cdot A\sin(\omega_0t)$:$$y_\tau(t)=x(t-\tau)\cdot A\sin(\omega_0(t-\tau))$$$$T_{\text{mod}}\{x_\tau\}(t)=x(t-\tau)\cdot A\sin(\omega_0 t)$$$$\because y_\tau(t)\neq T_{\text{mod}}\{x_\tau\}(t),\space T_{\text{mod}}\text{ is not time-invariant.}$$
+## Displays **Causality** (is causal) if:$$y(t)\!\perp\!\!\!\perp\{x(\tau)\}_{\tau\leq t},\space y(t)\not\!\perp\!\!\!\perp\{x(\tau)\}_{\tau\gt t}\space \forall\space t \in\mathbb{R}$$ie, is dependant on only past or present values, and not future ones:![[Pasted image 20240316012116.png]]
+## Is **Memoryless** if:$$y(t)\not\!\perp\!\!\!\perp x(\tau\neq t)\space\forall\space t\in\mathbb{R}$$ie only the present is significant, not the past or future: A subset or special case of **Causality**.
+## Displays **Invertibility** if:$$\exists\space T_\text{inv}:T_\text{inv}\{T\{x\}\}=T\{T_\text{inv}\{x\}\}=x$$![[Pasted image 20240316014151.png]] Where the same logic behind invertible functions can be applied.
+## Displays **Bounded-Input Bounded-Output (BIBO) Stability** if, with [[Signal Support and Size]]:$$\exists K\geq0:||y||_{\infty}\leq K||x||_\infty\space\forall\space x, y=T\{x\}$$

@@ -1,4 +1,4 @@
-## Similar to Inverters, only we do not actually invert the data. We employ a MOSFET.
+## Similar to Inverters, only we do not actually invert the data. We employ the [[MOSFET Operating Regions]]:
 
 ![[Pasted image 20231030225200.png]]
 

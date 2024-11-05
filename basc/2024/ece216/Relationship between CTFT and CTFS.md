@@ -1,0 +1,2 @@
+# The following graph summarizes everything we are really concerned about when relating [[Continuous Time Fourier Series]] with [[Continuous Time Fourier Transform]]s.
+![[Pasted image 20240226214539.png]]

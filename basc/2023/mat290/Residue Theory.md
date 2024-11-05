@@ -1,0 +1,2 @@
+# For points of Non-[[Analyticity]]$$\text{Res}(f,a)=\frac{1}{2\pi i}\oint_\gamma f(z)dz:\gamma=0<|z-a|<\delta$$Or Alternatively, $$\text{Res}(f(z),a)=\lim_{z\to a}(z-a)f(z)$$
+# Suppose $F(s)$ is analytic everywhere but a finite number $(n)$ points (Has n points of Non-[[Analyticity]]), then we have an easy way to get the [[Inverse Laplace Transform]]:$$f(t)=\sum_{i=1}^n\text{Res}[F(s)e^{st},s=p_i]$$
