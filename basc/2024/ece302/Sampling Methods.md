@@ -1,6 +1,7 @@
 # We Must ask
 - Does order matter in sampling? If yes then our sample space is usually bigger
 - Do we have replacement after every sample? This Dictates wether our sample space is static.
+- This introduces [[Permutations and Combinations]]
 # With Replacement (Order matters):
 - Meaning Sample space is static after every selection
 - $n$ objects, $k$ selections $\to$ $n^k$ Possible outcomes if order matters.

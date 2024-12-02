@@ -2,7 +2,7 @@
 - Optimal Sub-Problems
 - Greedy Choices
 - Optimal [[Searching]]
-
+Similar to [[Dynamic Programming]] in some regard
 # Algorithmic Implementation
 ``` python
 while(True)

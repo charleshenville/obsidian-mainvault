@@ -14,7 +14,7 @@
 /* Frame ids. */
 
 #define AV_STATE_MSGID  0x11
-#define AV_LIGHT_MSGID  0x11 // Need to get this MSG ID from the VI team
+#define AV_LIGHT_MSGID  0x10
 #define IMU_MSGID1      0x174
 #define IMU_MSGID2      0x178
 
@@ -59,7 +59,7 @@
 
 typedef struct scoring_av_state_t {
 
-    /**
+    /*
      * Range: 0..3 (0..3 -)
      * Scale: 1
      * Offset: 0
@@ -67,7 +67,7 @@ typedef struct scoring_av_state_t {
 
     uint8_t rolling_count;
     
-    /**
+    /*
      * Range: 0..2 (0..2 -)
      * Scale: 1
      * Offset: 0
@@ -75,7 +75,7 @@ typedef struct scoring_av_state_t {
 
     uint8_t global_autonomy_status;
     
-    /**
+    /*
      * Range: 0..1 (0..1 -)
      * Scale: 1
      * Offset: 0
@@ -83,7 +83,7 @@ typedef struct scoring_av_state_t {
 
     uint8_t steering_ctrl_active;
 
-    /**
+    /*
      * Range: 0..1 (0..1 -)
      * Scale: 1
      * Offset: 0
@@ -91,7 +91,7 @@ typedef struct scoring_av_state_t {
 
     uint8_t friction_brake_ctrl_active;
 
-    /**
+    /*
      * Range: 0..1 (0..1 -)
      * Scale: 1
      * Offset: 0

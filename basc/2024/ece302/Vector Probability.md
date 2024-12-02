@@ -1,0 +1,2 @@
+We shall define some variables and get the [[Probability Density Function]] of linear combinations of two [[Random Variables]]:$$U=aX+bY\quad V=cX+eY$$$$\begin{bmatrix}U\\ V\end{bmatrix}=\begin{bmatrix}a&b\\ c&e\end{bmatrix}\begin{bmatrix}X\\ Y\end{bmatrix}$$
+Using $A=\begin{bmatrix}a&b\\ c&e\end{bmatrix}$:$$\begin{bmatrix}x\\ y\end{bmatrix}=A^{-1}\begin{bmatrix}u\\ v\end{bmatrix}$$$$f_{U,V}(u,v)=\frac{f_{X,Y}(x,y)}{|A|}$$

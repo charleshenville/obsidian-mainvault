@@ -11,3 +11,5 @@ $$A_1A_2A_3\to((10*100)(100*5)(5*50))\to\text{some amount of operations}$$
 
 # Solution
 $$m[i,j]=\begin{cases}0\text{ if }i=j\\\min\limits_{i<k\leq j}\{m(i,k-1)+ m(k,j)+P_{i-1}P_kP_j\} \text{ if }i<j\end{cases}$$
+
+Connection here to [[Complexity Classes]]

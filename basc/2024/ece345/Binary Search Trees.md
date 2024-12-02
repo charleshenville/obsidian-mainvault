@@ -1,1 +1,1 @@
-look at [[BSTs]].
+look at [[BSTs]] and [[Trees]]

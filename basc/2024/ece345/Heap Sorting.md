@@ -1,4 +1,4 @@
-with [[Time Complexity Analysis]]
+with [[Time Complexity Analysis]] and [[Sorting]]
 # Heapsort (In-Place Sorting)
 
 ## Heap Properties 

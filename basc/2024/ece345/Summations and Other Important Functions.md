@@ -19,3 +19,4 @@ $=a_1-a_0+a_2-a_1+\dots+a_n-a_{n-1}=\bf{a_n-a_0}$ since everything else cancels 
 
 # Binomial Coefficients
 $$(x+y)^r=\sum_{i=0}^r(\begin{matrix}r\\ i\end{matrix})x^iy^{r-i}\space\text{where }(\begin{matrix}r\\ i\end{matrix})=\frac{r!}{(r-i)!i!}$$
+Useful in [[Proofs By Induction]]

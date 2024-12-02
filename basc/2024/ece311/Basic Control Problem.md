@@ -1,7 +1,7 @@
 Shorthand **BCP**
 
 # Standard Feedback Control Loop
-![[IMG_4020AB39A9A7-1.jpeg]]
+![[IMG_6A8B09ED77C9-1.jpeg]]
 
 - R(s) -> Reference Signal
 - D(s) -> Disturbance Signal

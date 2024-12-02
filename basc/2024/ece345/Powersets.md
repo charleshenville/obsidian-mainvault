@@ -1,5 +1,6 @@
 # Powerset of $S$: 
 - All Combinations of S plus null set $∅$
+- For [[Permutations and Combinations]]
 
 # Example with [[Proofs By Induction]]
 - Proving $2^S$ has cardinality $2^{|S|}$
