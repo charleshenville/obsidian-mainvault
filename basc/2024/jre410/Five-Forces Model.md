@@ -10,6 +10,6 @@
 ## When the 5 forces are high...  
 - then industry average profits will be low and it’s not an  “attractive” industry  
 ## And not all the 5 forces have to be high for an industry to be unattractive...  
-- Blockbuster killed by Netflix, other on-line competitors  (new entrants and low barriers to switching)
+- Blockbuster killed by Netflix, other online competitors  (new entrants and low barriers to switching)
 
 When analyzing these problems we must define industries and key players to make a good assessment of whether forces are high/low. Remember high force is worse.

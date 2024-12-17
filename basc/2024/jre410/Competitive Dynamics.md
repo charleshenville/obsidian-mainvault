@@ -1,5 +1,3 @@
-Lecture 5, titled "Competitive Dynamics and Intellectual Property," covers several key topics related to strategic moves firms make in dynamic industries, particularly how they adapt to competition, technological changes, and market shifts. Here's a summary of the main points:
-
 ### **Competitive Strategies and Advantages**
 
 - The lecture highlights five generic competitive strategies, focusing on the pursuit of **low-cost leadership** or **differentiation** across either broad or focused market segments:
