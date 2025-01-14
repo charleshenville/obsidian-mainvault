@@ -99,7 +99,7 @@ D(s)
 $$
 $$E(s)=R(s)-Y(s)$$
 $$E(s)=\frac{R(s)}{1+C(s)G(s)}_{\text{no D(s)}}=\frac{R(s)-G(s)D(s)}{1+C(s)G(s)}$$
-## Usual Controllers, $C(s)\to$ Proportional: $K$.   Integral: $\frac{K}{s}$.   Derivative: $Ks$
+## Usual Controllers, $C(s)\to$ Proportional: $K$.   Integral: $\frac{K}{s}$.   Derivative: $Ks$ Combined in parallel usually
 ![[Pasted image 20241118135203.png]]
 ![[Pasted image 20241118135219.png]]
 ## Time Response
@@ -108,13 +108,13 @@ $$T_r=\frac{1.8}{\omega_n},\quad T_s=\frac{4}{\zeta\omega_n},
 \quad\text{\%OS}=\exp\left(\frac{\zeta\pi}{\sqrt{1-\zeta^2}}\right),\quad\zeta=\frac{-\ln(\text{\%OS})}{\sqrt{\pi^2+\ln^2(\text{\%OS})}}$$
 ## Complex Region Analytics in Controller Design and Poles
 $$s=-\sigma+j\omega_d=-\zeta\omega_n+j\omega_n\sqrt{1-\zeta^2}=\omega_ne^{j\theta}$$$$\theta=\arccos(\zeta)=\arcsin(\omega_n\sqrt{1-\zeta^2})$$
-## Initial Value Theorem: 
-$$\lim\limits_{t\to0^+}f(t)=\lim\limits_{s\to\infty}sF(s)$$
-## Final  Value Theorem:
-$$\lim\limits_{t\to\infty}f(t)=\lim\limits_{s\to0}sF(s)$$
-## Open Left Hand Plane Set 
-$$\text{OLHP}=\{s\in\mathbb{C}:\Re(s)<0\}$$
-## Routh Array: BIBO Stability / Polynomial roots $\in\text{OLHP}$?
+## Controller Design for 2nd Order Systems
+$$PM_{L_O}=\arctan\frac{2\zeta}{\sqrt{-2\zeta^2+\sqrt{1+4\zeta^4}}}$$
+![[Pasted image 20241219221552.png]]
+## Initial/Final Value Theorem: 
+$$\lim\limits_{t\to0^+}f(t)=\lim\limits_{s\to\infty}sF(s),\quad\lim\limits_{t\to\infty}f(t)=\lim\limits_{s\to0}sF(s)$$
+
+## Routh Array: BIBO Stability / Polynomial roots $\in\text{OLHP}=\{s\in\mathbb{C}:\Re(s)<0\}$?
 $$a(s)=s^n+a_{n-1}s^{n-1}+\cdots+a_1s+a_0$$
 $$\downarrow$$
 $$\begin{matrix}
@@ -127,12 +127,36 @@ s^1 & y_1& y_{2}& 0&\cdots&0 \\
 s^0 & z_1& 0& 0&\cdots&0 \\
 \end{matrix}$$
 $$b_1=-\frac{1}{a_{n-1}}\det\begin{pmatrix}1&a_{n-2}\\a_{n-1}&a_{n-3}\end{pmatrix};\quad b_2=-\frac{1}{a_{n-1}}\det\begin{pmatrix}1&a_{n-4}\\a_{n-1}&a_{n-5}\end{pmatrix};\quad$$$$c_1=-\frac{1}{b_1}\det\begin{pmatrix}a_{n-1}&a_{n-3}\\b_1&b_2\end{pmatrix};\quad c_2=-\frac{1}{b_1}\det\begin{pmatrix}a_{n-1}&a_{n-5}\\b_1&b_3\end{pmatrix};\quad$$
-## Routh Criteria and Conclusions
+## Routh Criterion and Conclusions
 - (Necc., Suffic.):  Roots $\in$ OLHP $\iff$ no sign changes in first column.
 - No. sign changes = No. roots $\in$ RHP.
 - If any first element $\in$ any row is zero we have roots $\in$ RHP.
 - If an entire row is zero, the system has poles on the Imaginary axis.
+## Nyquist Criterion
+- In general, Let $n$ be the no. poles in $L(s):=P(s)C(s)\in\Re\{s\}>0$ the Closed-Loop (Feedback) system is stable $\iff$ Nyquist plot does not go through $\frac{-1}{K}+0j$ and encircles it $n$ times CCW. This interpretation is useful when we want to ensure we have 
+- This is equivalent to saying $n'$ is no. poles in $L'(s):=KP(s)C(s)\in\Re\{s\}>0$ the Closed-Loop (Feedback) system is stable $\iff$ Nyquist plot does not go through $-1+0j$ and encircles it $n'$ times CCW.
+## Stability Margins
+![[Pasted image 20241218131252.png]]
+$$\arctan(x)+\arctan(y)=\arctan(\frac{x+y}{1-xy})\quad\arctan(-x)=-\arctan(x)$$
 ## Internal Asymptotic Stability
-- This is true iff all eigenvalues of $A$ have a negative real part.
+- This is true $\iff$ all eigenvalues of $A$ have a negative real part.
 $$\Lambda = \text{roots}\left(\det(A-\lambda I)\right)$$
-	l
+## Lead Controller (Generally for when we want to get to a specific PM)$$C(s)=K\frac{Ts+1}{\alpha Ts+1}: 0<\alpha<1$$ 
+## Lag Controller (Generally when we want to get a specific DC Gain)$$C(s)=\alpha\frac{Ts+1}{\alpha Ts+1}:\alpha>1$$ 
+## Steps For Designing Lead/Lag Controllers
+1. Find $K$
+2. Determine $\Phi_\max$ necessary to obtain desired PM $$\Phi_\max = PM - PM_{\text{original }}+\text{extra margin (≈30°)}: 0<\Phi_\max<\frac{\pi}{2}$$
+3. Determine $\alpha$ from $\sin(\Phi_\max)=\frac{1-\alpha}{1+\alpha}\to \alpha=\frac{1-\sin(\Phi_\max)}{1+\sin(\Phi_\max)}$ Or just choose it such that you get a pole at the decade after your $\omega_\text{crossover}$
+4. Find $\omega_\max$
+5. Calculate $\frac{1}{T}=\sqrt{a}\omega_\max$ or $\frac{1}{T}\leq0.1\omega_c$
+6. Verify new $CG$ function
+7. Check stability with [[Nyquist Criterion]] or [[Routh Stability Criterion]].
+## Internal Model Principle (IMP)
+- $R(s)$ and $D(s)$ are rational and strictly / properly bounded
+- The Controller, $C(s)$, solves BCP iff
+	- $C(s)$ makes the closed loop BIBO Stable -> [[Stability In Control Systems]]
+	- $C(s)G(s)$ has poles of $R(s)$ -> [[Asymptotic Tracking]]
+	- $C(s)$ has all poles of $D(s)$ -> [[Disturbance Rejection]]
+## Bode Plot Guide
+![[Pasted image 20241219184627.png]]
+![[Pasted image 20241219211647.png]]
