@@ -7,3 +7,4 @@ $g=9.8,\space M=1Kg,\space R=3\Omega,\space L=1H$
 3. $$G(s)=\frac{2\sqrt g}{(s+3)(s^2-2g)}$$
 4. $$g(t)=-\frac{1}{\sqrt g}e^{-3t}+\sqrt 2(e^{-\sqrt{2g}t}-e^{\sqrt{2g}t})$$
 
+[[State-Space Model]]

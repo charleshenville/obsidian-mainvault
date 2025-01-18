@@ -60,7 +60,7 @@
       "query": "path:basc/2024/ece231 path:basc/2024/ece231  ",
       "color": {
         "a": 1,
-        "rgb": 15087558
+        "rgb": 14070735
       }
     },
     {
@@ -104,6 +104,48 @@
         "a": 1,
         "rgb": 12682667
       }
+    },
+    {
+      "query": "path:basc/2025/aps360  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:basc/2025/csc384  ",
+      "color": {
+        "a": 1,
+        "rgb": 12320670
+      }
+    },
+    {
+      "query": "path:basc/2025/ece361  ",
+      "color": {
+        "a": 1,
+        "rgb": 8869315
+      }
+    },
+    {
+      "query": "path:basc/2025/ece318  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
+    },
+    {
+      "query": "path:basc/2024/jre410  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    },
+    {
+      "query": "path:basc/2025/jre420  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
     }
   ],
   "collapse-display": false,
@@ -116,6 +158,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.0078125,
-  "close": true
+  "scale": 0.01875629973749415,
+  "close": false
 }

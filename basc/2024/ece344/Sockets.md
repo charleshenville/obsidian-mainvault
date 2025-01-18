@@ -20,3 +20,5 @@ We have different steps when thinking about servers vs clients.
 # UDP
 - No guarantee on order
 - Sends messages faster but we can drop some
+
+![[Pasted image 20250116152843.png]]

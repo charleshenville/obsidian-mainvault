@@ -1,5 +1,6 @@
 # Network Edge (Hosts)
 ![[Pasted image 20250109152452.png]]
+- [[Sockets]] run here
 # Access Network and Physical Media
 ![[Pasted image 20250109152608.png]]
 - Communication Links, etc.
@@ -26,3 +27,4 @@ $$\text{PTD}=\frac{L}{R}$$$$\text{Prop. Delay}=\tau=\frac{d}{C}$$
 # Guided v Unguided
 ![[Pasted image 20250109161200.png]]
 
+Broken up into [[Network Layers]]

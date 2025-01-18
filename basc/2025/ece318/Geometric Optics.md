@@ -7,6 +7,7 @@
 
 # Optical Path Length (OPL)
 - Physical path length of the ray weighted by the refractive index of the medium
+-Physical path length of the ray weighted by the refractive index of the medium. [[Line Integrals]] applicable here.
 $$\text{OPL}=\int_A^Bn(s)ds$$
 For Geometric Optics, we assume that Photons display Rectilinear Propagation
 
