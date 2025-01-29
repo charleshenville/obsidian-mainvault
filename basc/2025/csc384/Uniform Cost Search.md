@@ -1,6 +1,6 @@
 UCS Using [[Searching]] and a type of [[Uninformed Search]]
 # Expand the cheapest node on the Frontier.
-- nodes on the Frontier will be organised by cost in a [[Priority Queue]]
+- nodes on the Frontier will be organized by cost in a [[Priority Queue]]
 
 ![[Pasted image 20250115163126.png]]
 

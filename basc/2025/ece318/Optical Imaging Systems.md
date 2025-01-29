@@ -10,3 +10,5 @@ Leveraging Laws of [[Geometric Optics]]
 # Real/Virtual Objects and Images
 ![[Pasted image 20250117234704.png]]
 
+# Reversibility
+- Most of these systems we study will be reversible, meaning that you can "reproduce" the object at O by emitting from I instead.

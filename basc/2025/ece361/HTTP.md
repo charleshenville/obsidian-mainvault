@@ -31,3 +31,11 @@ Hypertext Transfer Protocol is an application in [[The Application Layer]]
 ![[Pasted image 20250116165559.png]]
 ![[Pasted image 20250116165613.png]]
 ![[Pasted image 20250116165622.png]]
+
+# Head-Of-Line Blocking
+- Problem with HTTP 1.1
+- HTTP 2 implements a framing-based fix
+- The issue is described as larger objects blocking the way for smaller object delivery if we chose to use FCFS [[Scheduling]] and the largest object came first.
+![[Pasted image 20250120123423.png]]
+vs HTTP2:
+![[Pasted image 20250120123515.png]]

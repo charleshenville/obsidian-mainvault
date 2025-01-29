@@ -4,3 +4,4 @@ For [[Uninformed Search]]
 # Approaches
 - **Path Checking**: Remembering states visited on one branch
 - **Cycle Checking**: Remembering all visited states
+
