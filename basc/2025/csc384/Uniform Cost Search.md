@@ -11,4 +11,4 @@ UCS Using [[Searching]] and a type of [[Uninformed Search]]
 - Note we need a minimum cost per operatio  here since otherwise we could potentially traverse an infinitely long path like 1->0.5->0.25->0.125->...
 - We say the min cost is $\geq\epsilon\gt0$
 
-Note - this is just Djikstra's algorithm - and is identical to Breadth First search in the case that all edge weights are equal/ we have all costs across all actions to be the same.
+Note - this is **just Dijkstra's algorithm** - and is identical to Breadth First search in the case that all edge weights are equal/ we have all costs across all actions to be the same.
