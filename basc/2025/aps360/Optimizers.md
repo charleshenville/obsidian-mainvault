@@ -1,9 +1,9 @@
 # Stochastic [[Gradient Descent]] (SGD)
  - evaluate training sample from dataset at random
-![[Pasted image 20250121183849.png]]
+![[Pasted image 20250121183849 1.png]]
 - can add a momentum term ($\lambda$) to influence our decision to keep traversing a direction depending on how well we are doing.
 $$\begin{cases}v_{ji}^t=\lambda v_{ji}^{t-1}-\gamma\frac{∂E}{∂w_{ji}}\\w_{ji}^{t+1}=w_{ji}^t+v_{ji}^t\end{cases}$$
-![[Pasted image 20250121185431.png]]
+![[Pasted image 20250121185431 1.png]]
 
 ## Mini-Batch Gradient Descent (MBGD)
 - look at average loss for $n$ samples and try to optimize that.
@@ -13,7 +13,7 @@ $$\begin{cases}v_{ji}^t=\lambda v_{ji}^{t-1}-\gamma\frac{∂E}{∂w_{ji}}\\w_{ji
 	- **Iteration**: One single step
 	- **Epoch**: # of times all the training data is used to update params
 
-![[Pasted image 20250121185040.png]]
+![[Pasted image 20250121185040 1.png]]
 
 ## Adaptive Moment Estimation (Adam)
 - Learning rates are dynamic and each weight has its own weight$$\begin{align*}

@@ -1,5 +1,5 @@
 $\in$ [[Optical Imaging Systems]]
-![[Pasted image 20250120125203.png]]
+![[Pasted image 20250120125203 1.png]]
 If light rays travel from left to right, then **(Real is Positive)**
 - $s_o$ is positive when *O* is to the left of *V* (i.e., _real object_)
 - $s_i$ is positive when *I* is to the right of *V* (i.e., _real image_)
@@ -11,11 +11,11 @@ Also, If $\phi >> 0$, we can use the FO Small angle [[Taylor Series]] approximat
 
 ## Transverse Magnification Formula $$M_T\equiv\frac{y_i}{y_o}=-\frac{s_i-R}{s_o+R}=-\frac{n_is_i}{n_ts_o}$$
 - Derived using similar triangles
-![[Pasted image 20250120134743.png]]
+![[Pasted image 20250120134743 1.png]]
 
 ## Longitudinal Magnification Formula$$M_L\equiv\frac{ds_i}{ds_o}=-\frac{n_is_i^2}{n_ts_o^2}$$
 - Derived from derivative of the Gaussian Formula Above
-![[Pasted image 20250120135338.png]]
+![[Pasted image 20250120135338 1.png]]
 ### When $M_L\neq M_T$ 
 - the image distorts
 ### Equivalence of Optical Path Length 

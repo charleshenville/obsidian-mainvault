@@ -10,4 +10,4 @@
 - Actions affects the environment (dynamic nature)
 
 ## Confusion Matrix
-![[Pasted image 20250121195840.png]]
+![[Pasted image 20250121195840 1.png]]

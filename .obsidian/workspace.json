@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basc/2025/csc384/Heuristics.md",
+                "file": "basc/2025/csc384/Breadth First Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heuristics"
+              "title": "Breadth First Search"
+            }
+          },
+          {
+            "id": "13a618da4d158f7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "basc/2025/ece318/LAB2 - The Polarization Of Light.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LAB2 - The Polarization Of Light"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "full ",
+                "query": "batch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,44 +191,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecc3bb7b9a1da5ea",
+  "active": "13a618da4d158f7b",
   "lastOpenFiles": [
-    "Pasted image 20250131203944.png",
-    "basc/2025/csc384/A-Star.md",
-    "Pasted image 20250131202029.png",
-    "basc/2025/csc384/Admissibility.md",
-    "Pasted image 20250131201319.png",
-    "basc/2025/csc384/Uniform Cost Search.md",
-    "basc/2025/csc384/Uninformed Search.md",
-    "basc/2024/ece216/Discrete Time Signals.md",
-    "basc/2023/mat290/Laplace Transform.md",
-    "basc/2024/ece345/Priority Queue.md",
-    "basc/2023/ece244/Queues.md",
-    "basc/2025/csc384/Breadth First Search.md",
-    "Pasted image 20250131183008.png",
-    "Pasted image 20250131183000.png",
-    "basc/2025/csc384/Heuristics.md",
-    "basc/2025/csc384/Heuristic Functions.md",
-    "basc/2025/csc384/Node Pruning.md",
-    "basc/2025/csc384/Depth First Search.md",
-    "Pasted image 20250131180440.png",
-    "basc/2025/ece361/Domain Name System.md",
-    "basc/2025/ece361/Cookies.md",
-    "basc/2025/ece318/The Eye.md",
-    "basc/2025/aps360/Convolutional Neural Networks.md",
-    "Pasted image 20250130201357.png",
-    "Pasted image 20250130201320.png",
-    "Pasted image 20250130201221.png",
+    "Pasted image 20250211015644.png",
+    "Pasted image 20250211015619.png",
+    "Pasted image 20250211011736.png",
+    "Pasted image 20250211010353.png",
+    "basc/2025/ece318/Spherical Mirrors.md",
     "basc/2025/ece318/LAB1 - Spherical Lenses and Optical Instruments.md",
-    "Pasted image 20250130194455.png",
-    "Pasted image 20250130194301.png",
-    "basc/2025/aps360/Convolution Operator.md",
-    "basc/2025/ece361/Automatic Repeat Request.md",
-    "basc/2025/ece361/Circuit Switching.md",
+    "basc/2025/ece318/LAB2 - The Polarization Of Light.md",
+    "Pasted image 20250210213946.png",
+    "basc/2025/ece318/Ray Tracing.md",
+    "basc/2025/ece318/Matrix Optics.md",
+    "basc/2024/ece311/Transfer Functions.md",
+    "Pasted image 20250209233107.png",
+    "basc/2025/ece318/Optical Imaging Systems.md",
+    "basc/2025/ece318/Geometric Optics.md",
+    "Pasted image 20250209224824.png",
+    "Pasted image 20250209224639.png",
+    "Pasted image 20250209224325.png",
+    "basc/2025/ece318/Imaging Devices.md",
+    "Pasted image 20250209220722.png",
+    "Pasted image 20250209212558.png",
+    "basc/2025/ece318/Spherical Refracting Surfaces.md",
     "basc/2025/ece361/Internet Checksum.md",
+    "basc/2025/ece361/Automatic Repeat Request.md",
     "basc/2025/ece361/Multiplexing-Demultiplexing.md",
-    "basc/2025/ece361/P2P Applications.md",
+    "basc/2025/ece361/IP Address.md",
+    "basc/2025/jre420/Midterm Crib Sheet.md",
+    "basc/2025/aps360/Gradient Descent.md",
+    "basc/2025/aps360/Normalization.md",
+    "basc/2025/aps360/Types of Learning.md",
+    "basc/2025/aps360/Convolutional Neural Networks.md",
+    "basc/2025/csc384/Heuristics.md",
+    "basc/2025/csc384/Admissibility.md",
+    "basc/2025/csc384/A-Star.md",
+    "basc/2025/aps360/Optimizers.md",
     "basc/2025/aps360/Artificial Neural Networks.md",
+    "basc/2025/aps360/Regularization.md",
     "assets/Lecture BJT.pdf",
     "basc/2025/csc384",
     "basc/2025/jre420",
