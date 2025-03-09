@@ -1,3 +1,1 @@
-The idea is to do depth-limited [[Depth First Search]]es and increase the limit every time we do not find a a goal state
-
-In **Depth-Limited Search (DLS)**, the work done for a depth limit $l - 1$ cannot be reused when performing DLS for depth limit $l$. This is because DLS explores the search tree up to the specified depth $l$, and each new search starts from the root node and explores all branches to the new depth limit.
+The idea is to do depth-limited [[Depth First Search]]es and increase the limit every time we do not find a a goal state. In **Depth-Limited Search (DLS)**, the work done for a depth limit $l - 1$ cannot be reused when performing DLS for depth limit $l$. This is because DLS explores the search tree up to the specified depth $l$, and each new search starts from the root node and explores all branches to the new depth limit.

@@ -5,11 +5,10 @@
   "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
-    "margin": "0",
-    "downscalePercent": 69
-  },
-  "showRibbon": true
+    "margin": "2",
+    "downscalePercent": 68
+  }
 }

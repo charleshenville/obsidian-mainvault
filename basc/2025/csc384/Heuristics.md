@@ -4,7 +4,6 @@ An attempt to help us solve [[Uninformed Search]] Problems more effectively.
 - Returns non-negative values
 - $h(n)=0$ for goal nodes/states
 - Computation of result is efficient without searches
-
 # Consistent (Monotone) Heuristics
 - continuing the idea of [[Admissibility]]
 - we ensure that the heuristic action cost $\leq$ the actual cost for each action: $$h(A)-h(C)\leq\text{cost}(A\to C)$$

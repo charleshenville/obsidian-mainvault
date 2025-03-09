@@ -6,158 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:basc/2023/mat290  ",
-      "color": {
-        "a": 1,
-        "rgb": 5526240
-      }
-    },
-    {
-      "query": "path:basc/2023/ece244  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:basc/2023/ece241  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:basc/2023/ece212  ",
-      "color": {
-        "a": 1,
-        "rgb": 9857461
-      }
-    },
-    {
-      "query": "path:basc/2023/mat291  ",
-      "color": {
-        "a": 1,
-        "rgb": 7249860
-      }
-    },
-    {
-      "query": "path:basc/2024/ece216  ",
-      "color": {
-        "a": 1,
-        "rgb": 12875962
-      }
-    },
-    {
-      "query": "path:basc/2024/ece221  ",
-      "color": {
-        "a": 1,
-        "rgb": 8008703
-      }
-    },
-    {
-      "query": "path:basc/2024/ece231 path:basc/2024/ece231  ",
-      "color": {
-        "a": 1,
-        "rgb": 14070735
-      }
-    },
-    {
-      "query": "path:basc/2024/ece243  ",
-      "color": {
-        "a": 1,
-        "rgb": 15102796
-      }
-    },
-    {
-      "query": "path:basc/2024/ece297  ",
-      "color": {
-        "a": 1,
-        "rgb": 7921023
-      }
-    },
-    {
-      "query": "path:basc/2024/ece345  ",
-      "color": {
-        "a": 1,
-        "rgb": 45860
-      }
-    },
-    {
-      "query": "path:basc/2024/ece344  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:basc/2024/ece302  ",
-      "color": {
-        "a": 1,
-        "rgb": 4572341
-      }
-    },
-    {
-      "query": "path:basc/2024/ece311  ",
-      "color": {
-        "a": 1,
-        "rgb": 12682667
-      }
-    },
-    {
-      "query": "path:basc/2025/aps360  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:basc/2025/csc384  ",
-      "color": {
-        "a": 1,
-        "rgb": 12320670
-      }
-    },
-    {
-      "query": "path:basc/2025/ece361  ",
-      "color": {
-        "a": 1,
-        "rgb": 8869315
-      }
-    },
-    {
-      "query": "path:basc/2025/ece318  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711927
-      }
-    },
-    {
-      "query": "path:basc/2024/jre410  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395026
-      }
-    },
-    {
-      "query": "path:basc/2025/jre420  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395026
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 2.9216814159292,
-  "lineSizeMultiplier": 1.94530292716133,
+  "nodeSizeMultiplier": 1.56086832682292,
+  "lineSizeMultiplier": 0.809000651041667,
   "collapse-forces": false,
-  "centerStrength": 0.0494991733929787,
+  "centerStrength": 0.255574544270833,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.0301828950673243,
-  "close": false
+  "scale": 0.6967396885517428,
+  "close": true
 }
