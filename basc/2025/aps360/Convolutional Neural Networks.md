@@ -29,3 +29,9 @@
 ### Strided Convolution
 ![[Pasted image 20250130201357.png]]
 
+# LeNet
+![[Pasted image 20250426174418.png]]
+
+# AlexNet
+![[Pasted image 20250426174442.png]]
+

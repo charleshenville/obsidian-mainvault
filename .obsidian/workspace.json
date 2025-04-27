@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basc/2025/ece318/LAB3 - Interference and Interferometers.md",
+                "file": "basc/2025/aps360/Inception Blocks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LAB3 - Interference and Interferometers"
+              "title": "Inception Blocks"
             }
           }
         ]
@@ -53,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "component",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.50312423706055
+    "width": 318.5024719238281
   },
   "right": {
     "id": "7c2f8f0722063884",
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "basc/2025/ece361/Automatic Repeat Request.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Automatic Repeat Request"
             }
           },
           {
@@ -178,43 +179,45 @@
   },
   "active": "6859bc760dd2ec06",
   "lastOpenFiles": [
-    "basc/2025/ece318/Matrix Optics.md",
-    "basc/2025/ece361/Proxy Servers.md",
-    "basc/2024/ece344/Page Replacement.md",
-    "basc/2024/ece344/Inodes.md",
-    "basc/2025/ece361/Domain Name System.md",
-    "basc/2025/ece361/High-Level Internet.md",
-    "basc/2025/ece361/Automatic Repeat Request.md",
-    "basc/2025/ece361/P2P Applications.md",
-    "basc/2024/ece302/Sampling Methods.md",
-    "basc/2024/ece345/Permutations and Combinations.md",
-    "peripheral/February Monthly Retro.md",
-    "assets/Pasted image 20250209212558.png",
-    "peripheral",
-    "basc/2025/ece318/LAB3 - Interference and Interferometers.md",
-    "assets/Pasted image 20250304014921.png",
-    "assets/Screenshot 2025-03-04 at 01.45.33.png",
-    "assets/Pasted image 20250304014708.png",
-    "basc/2025/ece361/Multiplexing-Demultiplexing.md",
-    "basc/2025/ece361/Internet Checksum.md",
-    "basc/2025/ece361/Mail Transfer Protocols.md",
-    "basc/2025/ece361/Packet Switching.md",
-    "basc/2025/ece361/Network Structure.md",
-    "basc/2025/ece361/Network Layers.md",
-    "basc/2025/ece361/IP Address.md",
+    "basc/2025/aps360/Convolutional Neural Networks.md",
+    "basc/2025/aps360/Inception Blocks.md",
+    "Pasted image 20250426174442.png",
+    "Pasted image 20250426174418.png",
+    "basc/2025/csc384/Latter Half Aid.md",
+    "basc/2025/aps360/Project Specifications.md",
+    "basc/2025/csc384/Final Crib Sheet.md",
+    "Pasted image 20250424161506.png",
+    "Pasted image 20250424161425.png",
+    "Pasted image 20250423201526.png",
+    "basc/2025/csc384/Variable Eliminations.md",
+    "basc/2025/csc384/Bayesian Networks.md",
+    "basc/2025/csc384/Reasoning Under Uncertainty.md",
+    "basc/2025/csc384/Logical Representations.md",
+    "basc/2025/csc384/First-Order Logic.md",
+    "basc/2025/csc384/Knowledge Representation and Reasoning.md",
+    "basc/2025/csc384/Minimax Search.md",
+    "basc/2025/csc384/Alpha Beta Pruning.md",
     "basc/2025/csc384/Midterm Crib Sheet.md",
-    "assets/Pasted image 20250131203944.png",
-    "basc/2025/csc384/Generalized Arc Consistency.md",
-    "basc/2023/ece241/Verilog.md",
-    "basc/2025/csc384/Constraint Propagation.md",
-    "basc/2025/csc384/GAC Propagation.md",
-    "basc/2025/csc384/Admissibility.md",
-    "basc/2025/csc384/Backtracking Search.md",
-    "assets/Pasted image 20250224124102.png",
-    "assets/Pasted image 20250224123718.png",
-    "assets/Pasted image 20250224095903.png",
-    "assets/Pasted image 20250223164847.png",
-    "assets/Pasted image 20250223133903.png",
+    "basc/2025/ece361/Internet Checksum.md",
+    "Pasted image 20250422000349.png",
+    "Pasted image 20250418183602.png",
+    "Pasted image 20250418171729.png",
+    "Pasted image 20250418171520.png",
+    "basc/2024/ece302/Joint Probability Density Function.md",
+    "basc/2024/ece302/Conditional Functions.md",
+    "basc/2024/ece302/Vector Probability.md",
+    "Pasted image 20250418163751.png",
+    "basc/2024/ece302/Cumulative Distribution Function.md",
+    "basc/2025/ece361/Automatic Repeat Request.md",
+    "basc/2025/ece318/Interferometers.md",
+    "basc/2025/ece318/Interference.md",
+    "basc/2025/ece318/Filters.md",
+    "basc/2025/ece318/Newton's Rings.md",
+    "basc/2025/ece318/Spectrometers.md",
+    "basc/2025/ece318/Diffraction.md",
+    "tetra",
+    "IMG_1281.heic",
+    "peripheral",
     "assets/Lecture BJT.pdf",
     "basc/2025/csc384",
     "basc/2025/jre420",
@@ -222,8 +225,6 @@
     "basc/2025/ece318",
     "basc/2025/aps360",
     "basc/2025",
-    "basc/2024/jre410.html",
-    "basc/2024/jre410/concat.py",
     "basc/2024/ece216/Untitled.canvas",
     "assets/Untitled 1.canvas",
     "Untitled.canvas"
